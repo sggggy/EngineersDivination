@@ -1,7 +1,6 @@
 //index.js
 //获取应用实例
 var util = require('../../utils/u1.js')
-//var Lunar = require('../../utils/Lunar.js')
 
 var drinks = util.drinks
 var directions = util.directions

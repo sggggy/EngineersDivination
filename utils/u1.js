@@ -1,4 +1,3 @@
-
 var activities = [
   // 极限编程
   { name: "提交代码", good: "遇到冲突的几率是最低的", bad: "你遇到的一大堆冲突会让你觉得自己是不是时间穿越了" },
@@ -31,7 +30,7 @@ var activities = [
   
   // 周末
   { name: "洗澡", good: "你几天没洗澡了？", bad: "会把设计方面的灵感洗掉", weekend: true },
-  { name: "锻炼一下身体", good: "强身健体", bad: "能量没消耗多少，吃得却更多", weekend: true },
+  { name: "锻炼", good: "强身健体", bad: "能量没消耗多少，吃得却更多", weekend: true },
   { name: "抽烟", good: "抽烟有利于提神，增加思维敏捷", bad: "除非你活够了，死得早点没关系", weekend: true },
   { name: "玩PS4", good: "只狼拜年剑法习得", bad: "菜", weekend: true },
   { name: "访问B站", good: "sggggy同学的视频又更新了", bad: "你关注的UP主成为失踪人口", weekend: true },
