@@ -21,7 +21,7 @@ Page({
     this.setData({
       date: '今天是' + year + '年' + month + '月' + day + '日  ' + week,
       starttimes: year + '-' + month + '-' + day,
-      drinks: pickRandom(iday,drinks, 2),
+      drinks: pickRandom(iday,drinks, 1),
       direction: directions[random(iday, 2) % directions.length],
       stars: star(random(iday, 6) % 5 + 1),
       goodlists: pickTodaysLuck(today,iday,1),
