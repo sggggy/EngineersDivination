@@ -34,7 +34,7 @@
     <text>开发，会有美好的事情发生。</text>
   </view>
   <view class="shupai">
-    <text class="strongtxt">今日宜饮：</text>
+    <text class="strongtxt">今日阅读推荐：</text>
     <text>{{drinks}}</text>
   </view>
   <view class="shupai">
@@ -42,9 +42,9 @@
     <text class="start">{{stars}}</text>
   </view>
   <view class="footer">
-    <text class="strongtxt">这是一个小程序，代码引用自GITHUB</text>
+    <text class="strongtxt">搜索GITHUB工程师运势PR新功能</text>
   </view>
   <view class="foot">
-    <text selectable="true">连接遥远的过去，与遥远的未来</text>
+    <text selectable="true">为了连接遥远的过去，与遥远的未来</text>
   </view>
 </view>
