@@ -25,7 +25,7 @@ var activities = [
 
   // PoseMethod
   { name: "关键跑姿训练", good: "为了更好的落下", bad: "感觉不到脚踝是否在重心下方" },
-  { name: "落下训练", good: "落下知觉得到了提升，跑步技术又进步了"", bad: "弯腰低头圆肩让你缩成一团" },
+  { name: "落下训练", good: "落下知觉得到了提升，跑步技术又进步了", bad: "弯腰低头圆肩让你缩成一团" },
   { name: "拉起训练", good: "拉起训练提升了你的跑步技术", bad: "过于在意前脚掌着地的结果是不对的" },
   { name: "弹跳训练", good: "弹性增强使得运用重力的技术提升", bad: "沉重的落地声预示着受伤的风险" },
   { name: "转换支撑训练", good: "你的知觉变得好了", bad: "坐着跑的姿势很难看的" },
@@ -58,9 +58,14 @@ var drinks = [
   "《犯罪心理研究》", 
   "《清单革命》"
   ];
+
+var quotes = [
+  "不管是坏孩子还是好孩子，疼痛都是一样的——《爱在高中》，导演，成俊海"
+];
 var directions = ["北方", "东北方", "东方", "东南方", "南方", "西南方", "西方", "西北方"];
 module.exports = {
   activities: activities,
   drinks: drinks,
+  quotes: quotes,
   directions: directions
 }
