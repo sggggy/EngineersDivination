@@ -7,7 +7,7 @@
   </view>
   <view class="good">
     <view class="title">
-      <text>宜</text>
+      <text>适合</text>
     </view>
     <view class="content">
       <view class="content-max" wx:for="{{goodlists}}">
@@ -18,7 +18,7 @@
   </view>
   <view class="split">
     <view class="title">
-      <text>忌</text>
+      <text>注意</text>
     </view>
     <view class="content">
       <view class="content-max" wx:for="{{splitlists}}">
@@ -34,21 +34,24 @@
     <text>开发，会有美好的事情发生</text>
   </view>
   <view class="shupai">
-    <text class="strongtxt">今日阅读推荐：</text>
-    <text >{{drinks}}</text>
-  </view>
-    <view class="shupai">
-    <text class="strongtxt">今日名句赏析：</text>
+    <text class="strongtxt">佳句赏析：</text>
     <text >{{quotes}}</text>
   </view>
   <view class="shupai">
-    <text class="strongtxt">现实残酷指数：</text>
+    <text class="strongtxt">阅读推荐：</text>
+    <text >{{drinks}}</text>
+  </view>
+  <view class="shupai">
+    <text class="strongtxt">残酷指数：</text>
     <text class="start">{{stars}}</text>
   </view>
   <view class="footer">
-    <text class="strongtxt">搜索GITHUB工程师运势PR新功能</text>
+    <text class="strongtxt">"你为什么下棋？"</text>
   </view>
   <view class="foot">
-    <text selectable="true">为了连接遥远的过去，与遥远的未来</text>
+    <text class="italic">"为了连接遥远的过去，与遥远的未来..."</text>
+  </view>
+  <view class="foot">
+    <text class="italic">"我就是因此而存在的。"</text>
   </view>
 </view>
