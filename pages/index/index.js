@@ -3,6 +3,7 @@
 var util = require('../../utils/u1.js')
 
 var drinks = util.drinks
+var quotes = util.quotes
 var directions = util.directions
 var today = new Date()
 var app = getApp()
@@ -22,6 +23,7 @@ Page({
       date: '今天是' + year + '年' + month + '月' + day + '日  ' + week,
       starttimes: year + '-' + month + '-' + day,
       drinks: pickRandom(iday,drinks, 1),
+      quotes: pickRandom(iday, quotes, 1),
       direction: directions[random(iday, 2) % directions.length],
       stars: star(random(iday, 6) % 5 + 1),
       goodlists: pickTodaysLuck(today,iday,1),

@@ -31,11 +31,15 @@
     <text class="strongtxt">座位朝向：</text>
     <text>面向</text>
     <text class="direction">{{direction}}</text>
-    <text>开发，会有美好的事情发生。</text>
+    <text>开发，会有美好的事情发生</text>
   </view>
   <view class="shupai">
     <text class="strongtxt">今日阅读推荐：</text>
-    <text>{{drinks}}</text>
+    <text >{{drinks}}</text>
+  </view>
+    <view class="shupai">
+    <text class="strongtxt">今日名句赏析：</text>
+    <text >{{quotes}}</text>
   </view>
   <view class="shupai">
     <text class="strongtxt">现实残酷指数：</text>
