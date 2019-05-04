@@ -67,7 +67,18 @@ var quotes = [
   "用沙子垒砌的城堡，无论是出于保护还是禁锢的目的，在大浪面前，下场都没什么差异。总有人会对身后的危险浑然不觉，免于受难的幸运儿欢欣雀跃之余，忘记了自己的幸运要靠牺牲来换",
   "每当你想批评别人的时候，要记住，这世上并不是所有人，都有你拥有的那些优越条件",
   "真正接受并能持续坚持训练，必须先明白原理，就是为什么要这么做，才会去很好的执行。",
-  "认知水平决定执行力度和训练效果。"
+  "认知水平决定执行力度和训练效果。",
+  "When you have nothing you have nothing to lose.",
+  "How you do one thing is how you do everything.",
+  "Exercise can be a tool for self-improvement, if you choose to treat it as such.",
+  "To children, play is innate — an instinctive, evolutionary behavior — and the boundary between play and reality doesn’t exist. When a child is a dragon, they are a dragon. When you’re the dragon? You’re acting” — and this acting comes more naturally for some than for others.",
+  "For people to respond to you, you must respond to them, instead of reacting.",
+  "“Quit trying to control everything and just let go” — Tyler Durden, Fight Club",
+  "Empiricism is the act of making decisions based on what is actually experienced.",
+  "“In complex environments, what will happen is unknown.”",
+  "The working product is the primary measure of progress.",
+  "Technical Debt is scary stuff.",
+  "Definitions of Done create transparency over the Product Increment."
 ];
 
 
