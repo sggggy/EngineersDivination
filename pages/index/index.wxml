@@ -54,5 +54,7 @@
   <view class="foot">
     <text class="italic">"我就是因此而存在的。"</text>
   </view>
+  <view class="foot">
   <image class="widget_arrow" src="/pages/images/pastandfuture.jpg" mode="aspectFit"></image>
+  </view>
 </view>
