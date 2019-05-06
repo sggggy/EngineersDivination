@@ -60,6 +60,7 @@ var drinks = [
   ];
 
 var quotes = [
+  "如果在这个不完美的世界一切都是不完美的，爱是不完美中最为完美的。——《第七封印》",
   "不是所有的寻找都有答案，但我们将再寻找中慢慢长大，这才是寻找的意义。——《尖叫的海棠》",
   "不管是坏孩子还是好孩子，疼痛都是一样的——《爱在高中》",
   "生命是什么呢？生命是时时刻刻不知道如何是好。——《哥伦比亚的倒影》",
@@ -78,7 +79,9 @@ var quotes = [
   "“In complex environments, what will happen is unknown.”",
   "The working product is the primary measure of progress.",
   "Technical Debt is scary stuff.",
-  "Definitions of Done create transparency over the Product Increment."
+  "Definitions of Done create transparency over the Product Increment.",
+  "Transparency is hard because it requires us to be vulnerable with each other, but you can start with baby steps.",
+  "看看什么是行之有效的，然后去行动吧"
 ];
 
 
