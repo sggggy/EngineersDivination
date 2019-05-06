@@ -81,7 +81,8 @@ var quotes = [
   "Technical Debt is scary stuff.",
   "Definitions of Done create transparency over the Product Increment.",
   "Transparency is hard because it requires us to be vulnerable with each other, but you can start with baby steps.",
-  "看看什么是行之有效的，然后去行动吧"
+  "看看什么是行之有效的，然后去行动吧",
+  "夏天终归是会来的。但它只向着忍耐它的人们走来。——《给青年诗人的信》"
 ];
 
 
