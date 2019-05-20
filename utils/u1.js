@@ -106,7 +106,8 @@ var quotes = [
   "大多数人都不会想母亲是好看还是不好看，母亲就是母亲。——《启蒙时代》",
   "在这个世界上，所有真性情的人，想法总是与众不同。——《边城》",
   "Unless commitment is made, there are only promises and hopes… but no plans. – Peter F. Drucker",
-  "所谓之人，不厌生，不惧死，昂首挺胸，上不愧于天，下不愧于地，中不愧于己。"
+  "所谓之人，不厌生，不惧死，昂首挺胸，上不愧于天，下不愧于地，中不愧于己。",
+  "如果我有六小时的时间来砍一棵树，我会用前四小时的时间来磨利斧头。—— 林肯(Abraham Lincoln)"
 ];
 
 
